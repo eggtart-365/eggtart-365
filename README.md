@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**eggtart-365/eggtart-365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Eggtart**, a passionate developer who enjoys building projects and learning new technologies.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🌱 Currently learning **WebSockets (Socket.io)** and real-time communication  
+- 💻 Interested in **WebGL, performance optimization, and scalable web systems**  
+- 🎯 Goal: To create efficient, high-performance applications that deliver a great user experience  
+- ⚡ Fun fact: I love experimenting with new frameworks just to see what's possible!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Java, JavaScript, TypeScript, Python  
+- **Frontend:** React, Next.js, React Router, TailwindCSS, styled-components  
+- **Backend:** Express, Nest.js, Java (Spring Boot)  
+- **Databases:** MySQL, PostgreSQL  
+- **Other Tools:** Git, GitHub, Docker
+
+### 📂 Featured Projects
+
+### 📫 Contact
+- GitHub: [@eggtart-365](https://github.com/eggtart365)  
+- Email: -
+- Discord: eggtart365
