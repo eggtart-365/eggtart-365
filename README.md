@@ -19,5 +19,5 @@ I'm **Eggtart**, a passionate developer who enjoys building projects and learnin
 
 ### 📫 Contact
 - GitHub: [@eggtart-365](https://github.com/eggtart365)  
-- Email: -
+- Email: contact@eggtart.app
 - Discord: eggtart365
