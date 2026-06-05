@@ -1,26 +1,31 @@
 ## Hi there 👋
 
-I'm **Eggtart**, a passionate developer who enjoys building projects and learning new technologies.
+I'm **Eggtart**, a developer passionate about building scalable systems and exploring how modern real-time applications work under the hood.
 
 ### 🚀 About Me
-- 🌱 Currently learning **WebSockets (Socket.io)** and real-time communication  
-- 💻 Interested in **WebGL, performance optimization, and scalable web systems**  
-- 🎯 Goal: To create efficient, high-performance applications that deliver a great user experience  
-- ⚡ Fun fact: I love experimenting with new frameworks just to see what's possible!  
+
+* 🌱 Currently learning **low-latency real-time communication**, distributed systems, and low-level communication protocols(such as CAN, I2C)
+* 💻 Interested in **real-time synchronization**, **collaborative editing systems**, **WebGL rendering**, **canvas-based applications**, and large-scale interactive web platforms
+* 🔧 Exploring networking, state synchronization, conflict resolution, and performance optimization techniques
+* 🎯 Goal: To build reliable, high-performance systems that deliver seamless real-time experiences
+* ⚡ Fun fact: I enjoy reverse-engineering how complex software works behind the scenes
 
 ### 🛠️ Tech Stack
-- **Languages:** Java, JavaScript, TypeScript, Python  
-- **Frontend:** React, Next.js, React Router, TailwindCSS, styled-components  
-- **Backend:** Express, Nest.js, Java (Spring Boot)  
-- **Databases:** MySQL, PostgreSQL  
-- **Other Tools:** Git, GitHub, Docker
+
+* **Languages:** Java, JavaScript, TypeScript, Python, Go
+* **Frontend:** React, Next.js, React Router, TailwindCSS, styled-components
+* **Backend:** Express, NestJS, Elysia, Spring Boot
+* **Databases:** MySQL, PostgreSQL, InfluxDB
+* **Other Tools:** Git, GitHub, Docker
 
 ### 📂 Featured Projects
-- [Dormitalk](https://dormitalk.eggtart.app/login): Advanced Dormitory Management System 
-- [Fosition](https://www.fosition.com/): Formula 1 Information Site for Korean
-- Dailik(WIP): Game Daily Mission Management Site
+
+* **Dormitalk** – Advanced Dormitory Management System
+* **Fosition** – Formula 1 Information Platform for Korean Fans
+* **Dailik (WIP)** – Daily Mission Management Platform
 
 ### 📫 Contact
-- GitHub: [@eggtart-365](https://github.com/eggtart365)  
-- Email: contact@eggtart.app
-- Discord: eggtart365
+
+* GitHub: @eggtart365
+* Email: [contact@eggtart.app](mailto:contact@eggtart.app)
+* Discord: eggtart365
