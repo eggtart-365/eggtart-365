@@ -26,6 +26,6 @@ I'm **Eggtart**, a developer passionate about building scalable systems and expl
 
 ### 📫 Contact
 
-* GitHub: @eggtart365
+* GitHub: [@eggtart-365](https://github.com/eggtart-365)
 * Email: [contact@eggtart.app](mailto:contact@eggtart.app)
 * Discord: eggtart365
