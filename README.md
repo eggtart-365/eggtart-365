@@ -1,31 +1,44 @@
-## Hi there 👋
+# Hi there 👋
 
-I'm **Eggtart**, a developer passionate about building scalable systems and exploring how modern real-time applications work under the hood.
+I'm **Eggtart**, a developer interested in building scalable systems and understanding how complex software works under the hood.
 
-### 🚀 About Me
+I enjoy working across the stack — from **low-level communication protocols** and backend systems to **interactive web applications**.
 
-* 🌱 Currently learning **low-latency real-time communication**, distributed systems, and low-level communication protocols(such as CAN, I2C)
-* 💻 Interested in **real-time synchronization**, **collaborative editing systems**, **WebGL rendering**, **canvas-based applications**, and large-scale interactive web platforms
-* 🔧 Exploring networking, state synchronization, conflict resolution, and performance optimization techniques
-* 🎯 Goal: To build reliable, high-performance systems that deliver seamless real-time experiences
-* ⚡ Fun fact: I enjoy reverse-engineering how complex software works behind the scenes
+## 🚀 Interests
 
-### 🛠️ Tech Stack
+* Real-time communication & distributed systems
+* Networking & state synchronization
+* Low-level protocols such as **CAN / I2C**
+* Collaborative & interactive applications
+* WebGL & Canvas rendering
+* Performance optimization
 
-* **Languages:** Java, JavaScript, TypeScript, Python, Go
-* **Frontend:** React, Next.js, React Router, TailwindCSS, styled-components
-* **Backend:** Express, NestJS, Elysia, Spring Boot
-* **Databases:** MySQL, PostgreSQL, InfluxDB
-* **Other Tools:** Git, GitHub, Docker
+## 🛠️ Tech Stack
 
-### 📂 Featured Projects
+**Languages**
+Java · TypeScript · JavaScript · Python · Go
 
-* **Dormitalk** – Advanced Dormitory Management System
-* **Fosition** – Formula 1 Information Platform for Korean Fans
-* **Dailik (WIP)** – Daily Mission Management Platform
+**Frontend**
+React · Next.js · React Router · TailwindCSS · styled-components
 
-### 📫 Contact
+**Backend**
+Spring Boot · NestJS · Express · Elysia
+
+**Database**
+PostgreSQL · MySQL · InfluxDB
+
+**Tools & Hardware**
+Git · GitHub · Docker · Arduino
+
+## 📂 Featured Projects
+
+* **Dormitalk** — Advanced dormitory management system
+* **Fosition** — Formula 1 information platform for Korean fans
+* **Dailik** *(WIP)* — Daily mission management platform
+* **Muhanjilju Telemetry** — Vehicle data acquisition and analysis system for Formula Student Korea
+
+## 📫 Contact
 
 * GitHub: [@eggtart-365](https://github.com/eggtart-365)
 * Email: [contact@eggtart.app](mailto:contact@eggtart.app)
-* Discord: eggtart365
+* Discord: `eggtart365`
